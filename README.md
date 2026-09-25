@@ -6,17 +6,18 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **1** | 0 | 1 | 0 | `2026-09-25` |
+| **2** | 0 | 2 | 0 | `2026-09-25` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (1)
+### DSA (2)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [781. Count all Digits of a Number](./DSA/Beginner-Problems/count-all-digits-of-a-number) | [CPP](./DSA/Beginner-Problems/count-all-digits-of-a-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
+| 0002 | [950. Count number of odd digits in a number](./DSA/Beginner-Problems/count-number-of-odd-digits-in-a-number) | [CPP](./DSA/Beginner-Problems/count-number-of-odd-digits-in-a-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
 
 ---
 
