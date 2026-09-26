@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **8** | 0 | 8 | 0 | `2026-09-26` |
+| **9** | 0 | 9 | 0 | `2026-09-26` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (8)
+### DSA (9)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -20,10 +20,11 @@
 | 0002 | [779. Check for Prime Number](./DSA/Beginner-Problems/check-for-prime-number) | [CPP](./DSA/Beginner-Problems/check-for-prime-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
 | 0003 | [781. Count all Digits of a Number](./DSA/Beginner-Problems/count-all-digits-of-a-number) | [CPP](./DSA/Beginner-Problems/count-all-digits-of-a-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
 | 0004 | [950. Count number of odd digits in a number](./DSA/Beginner-Problems/count-number-of-odd-digits-in-a-number) | [CPP](./DSA/Beginner-Problems/count-number-of-odd-digits-in-a-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
-| 0005 | [908. Factorial of a given number](./DSA/Beginner-Problems/factorial-of-a-given-number-i) | [CPP](./DSA/Beginner-Problems/factorial-of-a-given-number-i/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
-| 0006 | [211. Palindrome Number](./DSA/Beginner-Problems/palindrome-number) | [CPP](./DSA/Beginner-Problems/palindrome-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
-| 0007 | [957. Return the Largest Digit in a Number](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number) | [CPP](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
-| 0008 | [101. Reverse a number](./DSA/Beginner-Problems/reverse-a-number) | [CPP](./DSA/Beginner-Problems/reverse-a-number/solution.cpp) | 🟡 Medium | `Beginner-Problems` | `2026-09-25` |
+| 0005 | [790. Count of Prime Numbers till N](./DSA/Beginner-Problems/count-of-prime-numbers-till-n) | [CPP](./DSA/Beginner-Problems/count-of-prime-numbers-till-n/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0006 | [908. Factorial of a given number](./DSA/Beginner-Problems/factorial-of-a-given-number-i) | [CPP](./DSA/Beginner-Problems/factorial-of-a-given-number-i/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
+| 0007 | [211. Palindrome Number](./DSA/Beginner-Problems/palindrome-number) | [CPP](./DSA/Beginner-Problems/palindrome-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
+| 0008 | [957. Return the Largest Digit in a Number](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number) | [CPP](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
+| 0009 | [101. Reverse a number](./DSA/Beginner-Problems/reverse-a-number) | [CPP](./DSA/Beginner-Problems/reverse-a-number/solution.cpp) | 🟡 Medium | `Beginner-Problems` | `2026-09-25` |
 
 ---
 
