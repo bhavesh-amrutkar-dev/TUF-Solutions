@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **13** | 0 | 13 | 0 | `2026-09-28` |
+| **14** | 0 | 14 | 0 | `2026-09-28` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (13)
+### DSA (14)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -20,15 +20,16 @@
 | 0002 | [779. Check for Prime Number](./DSA/Beginner-Problems/check-for-prime-number) | [CPP](./DSA/Beginner-Problems/check-for-prime-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
 | 0003 | [781. Count all Digits of a Number](./DSA/Beginner-Problems/count-all-digits-of-a-number) | [CPP](./DSA/Beginner-Problems/count-all-digits-of-a-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
 | 0004 | [950. Count number of odd digits in a number](./DSA/Beginner-Problems/count-number-of-odd-digits-in-a-number) | [CPP](./DSA/Beginner-Problems/count-number-of-odd-digits-in-a-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
-| 0005 | [790. Count of Prime Numbers till N](./DSA/Beginner-Problems/count-of-prime-numbers-till-n) | [CPP](./DSA/Beginner-Problems/count-of-prime-numbers-till-n/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
-| 0006 | [690. Divisors of a Number](./DSA/General/divisors-of-a-number) | [CPP](./DSA/General/divisors-of-a-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-28` |
-| 0007 | [908. Factorial of a given number](./DSA/Beginner-Problems/factorial-of-a-given-number-i) | [CPP](./DSA/Beginner-Problems/factorial-of-a-given-number-i/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
-| 0008 | [693. GCD of Two Numbers](./DSA/General/gcd-of-two-numbers) | [CPP](./DSA/General/gcd-of-two-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-28` |
-| 0009 | [792. LCM of two numbers](./DSA/General/lcm-of-two-numbers) | [CPP](./DSA/General/lcm-of-two-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-28` |
-| 0010 | [211. Palindrome Number](./DSA/Beginner-Problems/palindrome-number) | [CPP](./DSA/Beginner-Problems/palindrome-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
-| 0011 | [957. Return the Largest Digit in a Number](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number) | [CPP](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
-| 0012 | [101. Reverse a number](./DSA/Beginner-Problems/reverse-a-number) | [CPP](./DSA/Beginner-Problems/reverse-a-number/solution.cpp) | 🟡 Medium | `Beginner-Problems` | `2026-09-25` |
-| 0013 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
+| 0005 | [873. Count of odd numbers in Array](./DSA/Arrays/count-of-odd-numbers-in-array) | [CPP](./DSA/Arrays/count-of-odd-numbers-in-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
+| 0006 | [790. Count of Prime Numbers till N](./DSA/Beginner-Problems/count-of-prime-numbers-till-n) | [CPP](./DSA/Beginner-Problems/count-of-prime-numbers-till-n/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-26` |
+| 0007 | [690. Divisors of a Number](./DSA/General/divisors-of-a-number) | [CPP](./DSA/General/divisors-of-a-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-28` |
+| 0008 | [908. Factorial of a given number](./DSA/Beginner-Problems/factorial-of-a-given-number-i) | [CPP](./DSA/Beginner-Problems/factorial-of-a-given-number-i/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
+| 0009 | [693. GCD of Two Numbers](./DSA/General/gcd-of-two-numbers) | [CPP](./DSA/General/gcd-of-two-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-28` |
+| 0010 | [792. LCM of two numbers](./DSA/General/lcm-of-two-numbers) | [CPP](./DSA/General/lcm-of-two-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-28` |
+| 0011 | [211. Palindrome Number](./DSA/Beginner-Problems/palindrome-number) | [CPP](./DSA/Beginner-Problems/palindrome-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
+| 0012 | [957. Return the Largest Digit in a Number](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number) | [CPP](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
+| 0013 | [101. Reverse a number](./DSA/Beginner-Problems/reverse-a-number) | [CPP](./DSA/Beginner-Problems/reverse-a-number/solution.cpp) | 🟡 Medium | `Beginner-Problems` | `2026-09-25` |
+| 0014 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
 
 ---
 
