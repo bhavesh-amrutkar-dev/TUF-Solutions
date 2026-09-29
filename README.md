@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **18** | 0 | 18 | 0 | `2026-09-29` |
+| **19** | 0 | 19 | 0 | `2026-09-29` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (18)
+### DSA (19)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -26,14 +26,15 @@
 | 0008 | [690. Divisors of a Number](./DSA/General/divisors-of-a-number) | [CPP](./DSA/General/divisors-of-a-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-28` |
 | 0009 | [908. Factorial of a given number](./DSA/Beginner-Problems/factorial-of-a-given-number-i) | [CPP](./DSA/Beginner-Problems/factorial-of-a-given-number-i/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
 | 0010 | [693. GCD of Two Numbers](./DSA/General/gcd-of-two-numbers) | [CPP](./DSA/General/gcd-of-two-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-28` |
-| 0011 | [792. LCM of two numbers](./DSA/General/lcm-of-two-numbers) | [CPP](./DSA/General/lcm-of-two-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-28` |
-| 0012 | [895. Palindrome Check](./DSA/Strings/palindrome-check) | [CPP](./DSA/Strings/palindrome-check/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-09-29` |
-| 0013 | [211. Palindrome Number](./DSA/Beginner-Problems/palindrome-number) | [CPP](./DSA/Beginner-Problems/palindrome-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
-| 0014 | [957. Return the Largest Digit in a Number](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number) | [CPP](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
-| 0015 | [101. Reverse a number](./DSA/Beginner-Problems/reverse-a-number) | [CPP](./DSA/Beginner-Problems/reverse-a-number/solution.cpp) | 🟡 Medium | `Beginner-Problems` | `2026-09-25` |
-| 0016 | [357. Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [CPP](./DSA/Strings/reverse-a-string-ii/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-09-29` |
-| 0017 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [CPP](./DSA/Arrays/reverse-an-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
-| 0018 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
+| 0011 | [341. Largest Odd Number in a String](./DSA/Strings/largest-odd-number-in-a-string) | [CPP](./DSA/Strings/largest-odd-number-in-a-string/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-09-29` |
+| 0012 | [792. LCM of two numbers](./DSA/General/lcm-of-two-numbers) | [CPP](./DSA/General/lcm-of-two-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-28` |
+| 0013 | [895. Palindrome Check](./DSA/Strings/palindrome-check) | [CPP](./DSA/Strings/palindrome-check/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-09-29` |
+| 0014 | [211. Palindrome Number](./DSA/Beginner-Problems/palindrome-number) | [CPP](./DSA/Beginner-Problems/palindrome-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
+| 0015 | [957. Return the Largest Digit in a Number](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number) | [CPP](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
+| 0016 | [101. Reverse a number](./DSA/Beginner-Problems/reverse-a-number) | [CPP](./DSA/Beginner-Problems/reverse-a-number/solution.cpp) | 🟡 Medium | `Beginner-Problems` | `2026-09-25` |
+| 0017 | [357. Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [CPP](./DSA/Strings/reverse-a-string-ii/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-09-29` |
+| 0018 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [CPP](./DSA/Arrays/reverse-an-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
+| 0019 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
 
 ---
 
