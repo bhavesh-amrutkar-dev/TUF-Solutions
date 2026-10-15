@@ -30,6 +30,10 @@ Both the zeroes are moved to the end and the order of the other elements stay th
 
 All 3 zeroes are moved to the end and the order of the other elements stay the same
 
+### Example 3:
+
+<h3 class="ProblemPanel-module__qBixIa__sectionTitle mb-0!">Example 3:</h3>
+
 Still unsure what the problem is asking ?
 
 Let’s go through a few more examples, step by step, to make it clearer.
