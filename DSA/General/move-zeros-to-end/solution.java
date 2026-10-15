@@ -1,19 +1,37 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        int index = -1;
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] != 0) {
-                index++;
-                map.put(index ,nums[i] );
-                nums[i] = 0;
+        int start = -1 ;
+        int n = nums.length;
+ 
+        for(int i = 0 ; i<nums.length ; i++){
+            if(nums[i] == 0){
+                start = i;
+                break;
             }
         }
-        if(index == -1) return;
-        for(Map.Entry<Integer , Integer> entity : map.entrySet()){
-            nums[entity.getKey()] = entity.getValue();
+        if(start == -1) return;
+        int end = 0;
+        if(start < n -1){
+           end = start + 1;
+        }else{
+            return;
         }
-        return;
+       
+       while(end < nums.length){
+        if(nums[end] == 0){
+end++;
+        }else{
+            nums[start] = nums[end];
+            nums[end] = 0;
+            while(start < n -1){
+                start ++;
+                if(nums[start] == 0) break;
+            }
+            end = start + 1;
+        }
+       
+       }
+      
     }
 }
  
