@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **31** | 0 | 31 | 0 | `2026-10-16` |
+| **32** | 0 | 32 | 0 | `2026-10-19` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (31)
+### DSA (32)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -33,20 +33,21 @@
 | 0015 | [237. Left Rotate Array by K Places](./DSA/Arrays/left-rotate-array) | [CPP](./DSA/Arrays/left-rotate-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-16` |
 | 0016 | [832. Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [CPP](./DSA/Arrays/left-rotate-array-by-one/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-16` |
 | 0017 | [838. Linear Search](./DSA/General/linear-search) | [CPP](./DSA/General/linear-search/solution.cpp) | ⚪ Unspecified | `Binary-Search` | `2026-09-30` |
-| 0018 | [248. Move Zeros to End](./DSA/General/move-zeros-to-end) | [CPP](./DSA/General/move-zeros-to-end/solution.cpp) [JAVA](./DSA/General/move-zeros-to-end/solution.java) | ⚪ Unspecified | `General` | `2026-10-15` |
-| 0019 | [895. Palindrome Check](./DSA/Strings/palindrome-check) | [CPP](./DSA/Strings/palindrome-check/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-09-29` |
-| 0020 | [211. Palindrome Number](./DSA/Beginner-Problems/palindrome-number) | [CPP](./DSA/Beginner-Problems/palindrome-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
-| 0021 | [984. Pattern 4](./DSA/General/pattern-4) | [CPP](./DSA/General/pattern-4/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-05` |
-| 0022 | [986. Pattern 5](./DSA/General/pattern-5) | [CPP](./DSA/General/pattern-5/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-06` |
-| 0023 | [995. Pattern 6](./DSA/General/pattern-6) | [CPP](./DSA/General/pattern-6/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-07` |
-| 0024 | [997. Pattern 7](./DSA/General/pattern-7) | [CPP](./DSA/General/pattern-7/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0025 | [1006. Pattern 8](./DSA/General/pattern-8) | [CPP](./DSA/General/pattern-8/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
-| 0026 | [957. Return the Largest Digit in a Number](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number) | [CPP](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
-| 0027 | [101. Reverse a number](./DSA/Beginner-Problems/reverse-a-number) | [CPP](./DSA/Beginner-Problems/reverse-a-number/solution.cpp) | 🟡 Medium | `Beginner-Problems` | `2026-09-25` |
-| 0028 | [357. Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [CPP](./DSA/Strings/reverse-a-string-ii/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-09-29` |
-| 0029 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [CPP](./DSA/Arrays/reverse-an-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
-| 0030 | [2. Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [CPP](./DSA/Arrays/search-x-in-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-01` |
-| 0031 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
+| 0018 | [729. Lower Bound](./DSA/General/lower-bound-) | [CPP](./DSA/General/lower-bound-/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-19` |
+| 0019 | [248. Move Zeros to End](./DSA/General/move-zeros-to-end) | [CPP](./DSA/General/move-zeros-to-end/solution.cpp) [JAVA](./DSA/General/move-zeros-to-end/solution.java) | ⚪ Unspecified | `General` | `2026-10-15` |
+| 0020 | [895. Palindrome Check](./DSA/Strings/palindrome-check) | [CPP](./DSA/Strings/palindrome-check/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-09-29` |
+| 0021 | [211. Palindrome Number](./DSA/Beginner-Problems/palindrome-number) | [CPP](./DSA/Beginner-Problems/palindrome-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
+| 0022 | [984. Pattern 4](./DSA/General/pattern-4) | [CPP](./DSA/General/pattern-4/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-05` |
+| 0023 | [986. Pattern 5](./DSA/General/pattern-5) | [CPP](./DSA/General/pattern-5/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-06` |
+| 0024 | [995. Pattern 6](./DSA/General/pattern-6) | [CPP](./DSA/General/pattern-6/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-07` |
+| 0025 | [997. Pattern 7](./DSA/General/pattern-7) | [CPP](./DSA/General/pattern-7/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
+| 0026 | [1006. Pattern 8](./DSA/General/pattern-8) | [CPP](./DSA/General/pattern-8/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
+| 0027 | [957. Return the Largest Digit in a Number](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number) | [CPP](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
+| 0028 | [101. Reverse a number](./DSA/Beginner-Problems/reverse-a-number) | [CPP](./DSA/Beginner-Problems/reverse-a-number/solution.cpp) | 🟡 Medium | `Beginner-Problems` | `2026-09-25` |
+| 0029 | [357. Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [CPP](./DSA/Strings/reverse-a-string-ii/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-09-29` |
+| 0030 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [CPP](./DSA/Arrays/reverse-an-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
+| 0031 | [2. Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [CPP](./DSA/Arrays/search-x-in-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-01` |
+| 0032 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
 
 ---
 
