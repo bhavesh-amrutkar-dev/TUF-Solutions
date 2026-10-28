@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **39** | 0 | 39 | 0 | `2026-10-27` |
+| **40** | 0 | 40 | 0 | `2026-10-28` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (39)
+### DSA (40)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -53,8 +53,9 @@
 | 0035 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [CPP](./DSA/Arrays/reverse-an-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
 | 0036 | [46. Search in rotated sorted array-I](./DSA/Arrays/search-in-rotated-sorted-array-i) | [CPP](./DSA/Arrays/search-in-rotated-sorted-array-i/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
 | 0037 | [2. Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [CPP](./DSA/Arrays/search-x-in-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-01` |
-| 0038 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
-| 0039 | [750. Upper Bound](./DSA/General/upper-bound) | [CPP](./DSA/General/upper-bound/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-24` |
+| 0038 | [224. Single element in sorted array](./DSA/Arrays/single-element-in-sorted-array) | [CPP](./DSA/Arrays/single-element-in-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-28` |
+| 0039 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
+| 0040 | [750. Upper Bound](./DSA/General/upper-bound) | [CPP](./DSA/General/upper-bound/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-24` |
 
 ---
 
