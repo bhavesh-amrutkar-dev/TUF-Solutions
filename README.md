@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **41** | 0 | 41 | 0 | `2026-10-29` |
+| **42** | 0 | 42 | 0 | `2026-10-30` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (41)
+### DSA (42)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -55,8 +55,9 @@
 | 0037 | [46. Search in rotated sorted array-I](./DSA/Arrays/search-in-rotated-sorted-array-i) | [CPP](./DSA/Arrays/search-in-rotated-sorted-array-i/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
 | 0038 | [2. Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [CPP](./DSA/Arrays/search-x-in-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-01` |
 | 0039 | [224. Single element in sorted array](./DSA/Arrays/single-element-in-sorted-array) | [CPP](./DSA/Arrays/single-element-in-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-28` |
-| 0040 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
-| 0041 | [750. Upper Bound](./DSA/General/upper-bound) | [CPP](./DSA/General/upper-bound/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-24` |
+| 0040 | [309. Split array - largest sum](./DSA/Arrays/split-array---largest-sum) | [CPP](./DSA/Arrays/split-array---largest-sum/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
+| 0041 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
+| 0042 | [750. Upper Bound](./DSA/General/upper-bound) | [CPP](./DSA/General/upper-bound/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-24` |
 
 ---
 
