@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **45** | 0 | 45 | 0 | `2026-11-02` |
+| **46** | 0 | 46 | 0 | `2026-11-03` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (45)
+### DSA (46)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -29,38 +29,39 @@
 | 0011 | [690. Divisors of a Number](./DSA/General/divisors-of-a-number) | [CPP](./DSA/General/divisors-of-a-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-28` |
 | 0012 | [908. Factorial of a given number](./DSA/Beginner-Problems/factorial-of-a-given-number-i) | [CPP](./DSA/Beginner-Problems/factorial-of-a-given-number-i/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
 | 0013 | [62. Find minimum in Rotated Sorted Array](./DSA/Arrays/find-minimum-in-rotated-sorted-array) | [CPP](./DSA/Arrays/find-minimum-in-rotated-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-26` |
-| 0014 | [129. Find peak element](./DSA/General/find-peak-element) | [CPP](./DSA/General/find-peak-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-22` |
-| 0015 | [786. Find square root of a number](./DSA/General/find-square-root-of-a-number) | [CPP](./DSA/General/find-square-root-of-a-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-27` |
-| 0016 | [340. Find the smallest divisor](./DSA/General/find-the-smallest-divisor) | [CPP](./DSA/General/find-the-smallest-divisor/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-31` |
-| 0017 | [279. First and last occurrence](./DSA/General/first-and-last-occurrence) | [CPP](./DSA/General/first-and-last-occurrence/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-21` |
-| 0018 | [693. GCD of Two Numbers](./DSA/General/gcd-of-two-numbers) | [CPP](./DSA/General/gcd-of-two-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-28` |
-| 0019 | [706. Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [CPP](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-16` |
-| 0020 | [702. Largest Element](./DSA/General/largest-element) | [CPP](./DSA/General/largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-30` |
-| 0021 | [341. Largest Odd Number in a String](./DSA/Strings/largest-odd-number-in-a-string) | [CPP](./DSA/Strings/largest-odd-number-in-a-string/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-09-29` |
-| 0022 | [792. LCM of two numbers](./DSA/General/lcm-of-two-numbers) | [CPP](./DSA/General/lcm-of-two-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-28` |
-| 0023 | [237. Left Rotate Array by K Places](./DSA/Arrays/left-rotate-array) | [CPP](./DSA/Arrays/left-rotate-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-16` |
-| 0024 | [832. Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [CPP](./DSA/Arrays/left-rotate-array-by-one/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-16` |
-| 0025 | [838. Linear Search](./DSA/General/linear-search) | [CPP](./DSA/General/linear-search/solution.cpp) | ⚪ Unspecified | `Binary-Search` | `2026-09-30` |
-| 0026 | [729. Lower Bound](./DSA/General/lower-bound-) | [CPP](./DSA/General/lower-bound-/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-19` |
-| 0027 | [248. Move Zeros to End](./DSA/General/move-zeros-to-end) | [CPP](./DSA/General/move-zeros-to-end/solution.cpp) [JAVA](./DSA/General/move-zeros-to-end/solution.java) | ⚪ Unspecified | `General` | `2026-10-15` |
-| 0028 | [1049. Painter's Partition](./DSA/General/painters-partition) | [JAVA](./DSA/General/painters-partition/solution.java) | ⚪ Unspecified | `General` | `2026-11-02` |
-| 0029 | [895. Palindrome Check](./DSA/Strings/palindrome-check) | [CPP](./DSA/Strings/palindrome-check/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-09-29` |
-| 0030 | [211. Palindrome Number](./DSA/Beginner-Problems/palindrome-number) | [CPP](./DSA/Beginner-Problems/palindrome-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
-| 0031 | [984. Pattern 4](./DSA/General/pattern-4) | [CPP](./DSA/General/pattern-4/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-05` |
-| 0032 | [986. Pattern 5](./DSA/General/pattern-5) | [CPP](./DSA/General/pattern-5/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-06` |
-| 0033 | [995. Pattern 6](./DSA/General/pattern-6) | [CPP](./DSA/General/pattern-6/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-07` |
-| 0034 | [997. Pattern 7](./DSA/General/pattern-7) | [CPP](./DSA/General/pattern-7/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0035 | [1006. Pattern 8](./DSA/General/pattern-8) | [CPP](./DSA/General/pattern-8/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
-| 0036 | [957. Return the Largest Digit in a Number](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number) | [CPP](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
-| 0037 | [101. Reverse a number](./DSA/Beginner-Problems/reverse-a-number) | [CPP](./DSA/Beginner-Problems/reverse-a-number/solution.cpp) | 🟡 Medium | `Beginner-Problems` | `2026-09-25` |
-| 0038 | [357. Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [CPP](./DSA/Strings/reverse-a-string-ii/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-09-29` |
-| 0039 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [CPP](./DSA/Arrays/reverse-an-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
-| 0040 | [46. Search in rotated sorted array-I](./DSA/Arrays/search-in-rotated-sorted-array-i) | [CPP](./DSA/Arrays/search-in-rotated-sorted-array-i/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
-| 0041 | [2. Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [CPP](./DSA/Arrays/search-x-in-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-01` |
-| 0042 | [224. Single element in sorted array](./DSA/Arrays/single-element-in-sorted-array) | [CPP](./DSA/Arrays/single-element-in-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-28` |
-| 0043 | [309. Split array - largest sum](./DSA/Arrays/split-array---largest-sum) | [CPP](./DSA/Arrays/split-array---largest-sum/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
-| 0044 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
-| 0045 | [750. Upper Bound](./DSA/General/upper-bound) | [CPP](./DSA/General/upper-bound/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-24` |
+| 0014 | [116. Find missing number](./DSA/General/find-missing-number) | [JAVA](./DSA/General/find-missing-number/solution.java) | ⚪ Unspecified | `General` | `2026-11-03` |
+| 0015 | [129. Find peak element](./DSA/General/find-peak-element) | [CPP](./DSA/General/find-peak-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-22` |
+| 0016 | [786. Find square root of a number](./DSA/General/find-square-root-of-a-number) | [CPP](./DSA/General/find-square-root-of-a-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-27` |
+| 0017 | [340. Find the smallest divisor](./DSA/General/find-the-smallest-divisor) | [CPP](./DSA/General/find-the-smallest-divisor/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-31` |
+| 0018 | [279. First and last occurrence](./DSA/General/first-and-last-occurrence) | [CPP](./DSA/General/first-and-last-occurrence/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-21` |
+| 0019 | [693. GCD of Two Numbers](./DSA/General/gcd-of-two-numbers) | [CPP](./DSA/General/gcd-of-two-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-28` |
+| 0020 | [706. Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [CPP](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-16` |
+| 0021 | [702. Largest Element](./DSA/General/largest-element) | [CPP](./DSA/General/largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-30` |
+| 0022 | [341. Largest Odd Number in a String](./DSA/Strings/largest-odd-number-in-a-string) | [CPP](./DSA/Strings/largest-odd-number-in-a-string/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-09-29` |
+| 0023 | [792. LCM of two numbers](./DSA/General/lcm-of-two-numbers) | [CPP](./DSA/General/lcm-of-two-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-28` |
+| 0024 | [237. Left Rotate Array by K Places](./DSA/Arrays/left-rotate-array) | [CPP](./DSA/Arrays/left-rotate-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-16` |
+| 0025 | [832. Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [CPP](./DSA/Arrays/left-rotate-array-by-one/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-16` |
+| 0026 | [838. Linear Search](./DSA/General/linear-search) | [CPP](./DSA/General/linear-search/solution.cpp) | ⚪ Unspecified | `Binary-Search` | `2026-09-30` |
+| 0027 | [729. Lower Bound](./DSA/General/lower-bound-) | [CPP](./DSA/General/lower-bound-/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-19` |
+| 0028 | [248. Move Zeros to End](./DSA/General/move-zeros-to-end) | [CPP](./DSA/General/move-zeros-to-end/solution.cpp) [JAVA](./DSA/General/move-zeros-to-end/solution.java) | ⚪ Unspecified | `General` | `2026-10-15` |
+| 0029 | [1049. Painter's Partition](./DSA/General/painters-partition) | [JAVA](./DSA/General/painters-partition/solution.java) | ⚪ Unspecified | `General` | `2026-11-02` |
+| 0030 | [895. Palindrome Check](./DSA/Strings/palindrome-check) | [CPP](./DSA/Strings/palindrome-check/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-09-29` |
+| 0031 | [211. Palindrome Number](./DSA/Beginner-Problems/palindrome-number) | [CPP](./DSA/Beginner-Problems/palindrome-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
+| 0032 | [984. Pattern 4](./DSA/General/pattern-4) | [CPP](./DSA/General/pattern-4/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-05` |
+| 0033 | [986. Pattern 5](./DSA/General/pattern-5) | [CPP](./DSA/General/pattern-5/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-06` |
+| 0034 | [995. Pattern 6](./DSA/General/pattern-6) | [CPP](./DSA/General/pattern-6/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-07` |
+| 0035 | [997. Pattern 7](./DSA/General/pattern-7) | [CPP](./DSA/General/pattern-7/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
+| 0036 | [1006. Pattern 8](./DSA/General/pattern-8) | [CPP](./DSA/General/pattern-8/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
+| 0037 | [957. Return the Largest Digit in a Number](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number) | [CPP](./DSA/Beginner-Problems/return-the-largest-digit-in-a-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
+| 0038 | [101. Reverse a number](./DSA/Beginner-Problems/reverse-a-number) | [CPP](./DSA/Beginner-Problems/reverse-a-number/solution.cpp) | 🟡 Medium | `Beginner-Problems` | `2026-09-25` |
+| 0039 | [357. Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [CPP](./DSA/Strings/reverse-a-string-ii/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-09-29` |
+| 0040 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [CPP](./DSA/Arrays/reverse-an-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
+| 0041 | [46. Search in rotated sorted array-I](./DSA/Arrays/search-in-rotated-sorted-array-i) | [CPP](./DSA/Arrays/search-in-rotated-sorted-array-i/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
+| 0042 | [2. Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [CPP](./DSA/Arrays/search-x-in-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-01` |
+| 0043 | [224. Single element in sorted array](./DSA/Arrays/single-element-in-sorted-array) | [CPP](./DSA/Arrays/single-element-in-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-28` |
+| 0044 | [309. Split array - largest sum](./DSA/Arrays/split-array---largest-sum) | [CPP](./DSA/Arrays/split-array---largest-sum/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
+| 0045 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
+| 0046 | [750. Upper Bound](./DSA/General/upper-bound) | [CPP](./DSA/General/upper-bound/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-24` |
 
 ---
 
