@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **46** | 0 | 46 | 0 | `2026-11-03` |
+| **47** | 0 | 47 | 0 | `2026-11-04` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (46)
+### DSA (47)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -61,7 +61,8 @@
 | 0043 | [224. Single element in sorted array](./DSA/Arrays/single-element-in-sorted-array) | [CPP](./DSA/Arrays/single-element-in-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-28` |
 | 0044 | [309. Split array - largest sum](./DSA/Arrays/split-array---largest-sum) | [CPP](./DSA/Arrays/split-array---largest-sum/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
 | 0045 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
-| 0046 | [750. Upper Bound](./DSA/General/upper-bound) | [CPP](./DSA/General/upper-bound/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-24` |
+| 0046 | [1. Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | ⚪ Unspecified | `Arrays` | `2026-11-04` |
+| 0047 | [750. Upper Bound](./DSA/General/upper-bound) | [CPP](./DSA/General/upper-bound/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-24` |
 
 ---
 
